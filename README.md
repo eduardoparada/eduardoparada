@@ -1,16 +1,15 @@
-### Hi there 👋
+### Fala turma! 
 
-<!--
-**eduardoparada/eduardoparada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Me chamo Eduardo Parada, sou primariamente Engenheiro Civil e estudo Análise e Desenvolvimento de Sistemas com o objetivo de imergir na área de tecnologia e através dela desenvolver soluções para negócios e facilitar a vida do empreendedor, seja com sistemas ou informações.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+- Linkedin : https://www.linkedin.com/in/eduardo-parada/
+
+## Estudos recentes
+
+- Git e Github
+- C# e .NET
+- HTML, CSS e Javascript como base para front-end
+- SQL (MySQL e SQL Server)
+- Python
