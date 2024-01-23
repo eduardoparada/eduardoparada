@@ -9,7 +9,5 @@ Me chamo Eduardo Parada, sou Engenheiro Civil e estudo Data Analytics com o obje
 ## Conhecimentos técnicos
 
 - Git e Github
-- C# e .NET
-- HTML, CSS e Javascript como base para front-end
-- SQL (MySQL e SQL Server)
+- SQL (MySQL / SQL Server / PostgreSQL)
 - Python
